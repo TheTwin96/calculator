@@ -13,7 +13,7 @@
     border: 2ps solid white;
     margin: 4px;
     cursor: pointer;
-    user-select: text;
+    user-select: none;
 }
 
 .button_container:hover {
